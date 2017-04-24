@@ -1,0 +1,14 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+   string frase ="estamos desarrollando un codigo en C++"; //no se pudee usar char porque CHAR solo utiliza un caracter
+   for (i=0, n=frase.size(); i<n; i++)
+   
+    
+}
